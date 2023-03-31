@@ -1,0 +1,8 @@
+sylvain@ubuntu$ curl -sI 34.198.248.145/redirect_me/
+HTTP/1.1 301 Moved Permanently
+Server: nginx/1.4.6 (Ubuntu)
+Date: Tue, 21 Feb 2017 21:36:04 GMT
+Content-Type: text/html
+Content-Length: 193
+Connection: keep-alive
+Location: https://www.youtube.com/watch?v=QH2-TGUlwu4
